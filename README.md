@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on internships
-- 📫 How to reach me :@ mtm.vis.231100@gmail.com or whatsapp 9080937352
+- 📫 How to reach me :@ muthumanikkamviswa@gmail.com or whatsapp 9080937352
 
 <!---
 muthumanikkamv/muthumanikkamv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
